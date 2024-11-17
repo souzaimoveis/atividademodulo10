@@ -1,1 +1,1 @@
-# atividademodulo10
+Atividade do módulo 10 realizada com as modificações pedidas. Foi adicionado uma página HTML com customização CSS demonstrando que pude clonar o repositório, adicionar modificações e postar em meu GitHub.
